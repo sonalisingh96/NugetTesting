@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>AppLoggerTest_sonali_singh</PackageId>
+    <Copyright>copyright2018</Copyright>
+    <Description>test nuget server</Description>
+    <Authors>sonali singh</Authors>
+  </PropertyGroup>
+
+</Project>

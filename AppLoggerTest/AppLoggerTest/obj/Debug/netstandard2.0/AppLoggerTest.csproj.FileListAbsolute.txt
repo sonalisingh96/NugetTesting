@@ -1,0 +1,9 @@
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\bin\Debug\netstandard2.0\AppLoggerTest.deps.json
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\bin\Debug\netstandard2.0\AppLoggerTest.dll
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\bin\Debug\netstandard2.0\AppLoggerTest.pdb
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.csprojAssemblyReference.cache
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.csproj.CoreCompileInputs.cache
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.AssemblyInfoInputs.cache
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.AssemblyInfo.cs
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.dll
+C:\Users\z003whua\source\repos\AppLoggerTest\AppLoggerTest\obj\Debug\netstandard2.0\AppLoggerTest.pdb
